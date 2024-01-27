@@ -1,0 +1,20 @@
+{
+  "banChats": false,
+  "menu_audio": true,
+  "verificado": false,
+  "antipv": false,
+  "anticall": false,
+  "visualizarmsg": false,
+  "listanegraG": [],
+  "TOKEN_GPT": "sk-...",
+  "CmdPremium": [],
+  "blockCmdG": [],
+  "dono1": ".",
+  "dono2": ".",
+  "dono3": ".",
+  "dono4": ".",
+  "dono5": ".",
+  "dono6": ".",
+  "botoff": false,
+  "Odelete": false
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "command": "antiimg",
+    "info": "Este comando desempenha um papel crucial ao 🚫 restringir ou banir participantes que compartilham imagens no grupo, contribuindo para um ambiente mais controlado. Para que esse recurso entre em ação, é necessário ativá-lo. A seguir, exemplificamos como proceder:\n\n🛡️Para ativar a proteção em seu grupo, utilize o comando a seguir:\n\n#prefixo#antiimg 1\n\n🔓Para desativar, basta inverter o número. Substitua 1 por 0.\n\nCertifique-se de incorporar essa medida de segurança ao seu grupo para promover uma experiência mais agradável para todos os membros. 🌐👥"
+  },
+  {
+    "command": "antivideo",
+    "info": "Este comando desempenha um papel fundamental ao 🚫 restringir/banir participantes que compartilham vídeos no grupo, promovendo um ambiente mais seguro. Lembre-se de que é necessário ativá-lo para que sua função seja executada. Veja o exemplo abaixo:\n\n🎥 Para ativar a proteção no seu grupo, utilize o seguinte comando:\n\n#prefixo#antivideo 1\n\n🔓 Para desativar, inverta o número. Em vez de 1, insira 0.\n\nCertifique-se de ativar essa medida de segurança para criar um ambiente mais agradável e protegido para todos os membros. 🌐👥"
+  },
+  {
+    "command": "antiaudio",
+    "info": "Este comando desempenha um papel crucial ao 🚫 restringir/banir participantes que compartilham áudios no grupo, garantindo um ambiente mais controlado. Lembre-se de que é necessário ativá-lo para que sua função seja executada. Veja o exemplo abaixo:\n\n🎤 Para ativar a proteção no seu grupo, utilize o seguinte comando:\n\n#prefixo#antiaudio 1\n\n🔓 Para desativar, inverta o número. Em vez de 1, insira 0.\n\nCertifique-se de ativar essa medida de segurança para criar um ambiente mais agradável e protegido para todos os membros. 🌐👥"
+  },
+  {
+    "command": "antiloc",
+    "info": "*_Comando de Restrição de Localização (antiloc):_*\nEste comando desempenha um papel crucial ao 🚫 restringir/banir participantes que compartilham localização no grupo, mantendo um ambiente mais controlado. Lembre-se de que é necessário ativá-lo para que sua função seja executada. Veja o exemplo abaixo:\n\n*📍 Para ativar a proteção no seu grupo:*\n\n#prefixo#antiloc 1\n\n*🔓 Para desativar:*\n\n#prefixo#antiloc 0\n\nCertifique-se de ativar essa medida de segurança para criar um ambiente mais agradável e protegido para todos os membros. 🌐👥"
+  },
+  {
+    "command": "anticontato",
+    "info": "*_Comando de Restrição de Contatos (anticontato):_*\nEste comando é essencial para 🚫 restringir/banir participantes que compartilham contatos no grupo, assegurando um ambiente mais controlado. Lembre-se de que é necessário ativá-lo para que sua função seja executada. Veja o exemplo abaixo:\n\n*🤝 Para ativar a proteção no seu grupo:*\n\n#prefixo#anticontato 1\n\n*🔓 Para desativar:*\n\n#prefixo#anticontato 0\n\nCertifique-se de ativar essa medida de segurança para criar um ambiente mais agradável e protegido para todos os membros. 🌐👥"
+  },
+  {
+    "command": "antidoc",
+    "info": "*_Comando de Restrição de Documentos (antidoc):_*\nEste comando é vital para 🚫 restringir/banir participantes que compartilham documentos no grupo, garantindo um ambiente mais controlado. Lembre-se de que é necessário ativá-lo para que sua função seja executada. Veja o exemplo abaixo:\n\n*📄 Para ativar a proteção no seu grupo:*\n\n#prefixo#antidoc 1\n\n*🔓 Para desativar:*\n\n#prefixo#antidoc 0\n\nCertifique-se de ativar essa medida de segurança para criar um ambiente mais agradável e protegido para todos os membros. 🌐👥"
+  },
+  {
+    "command": "forca",
+    "info": "*_Jogo da Forca no Grupo 🎮_*\n\n1. *Adicionar Palavras:*\n\n```- #Addforca titulo|tema1|dica.```\n\n2. *Remover Palavras:*\n\n```- #Delforca titulo.```\n\n3. *Iniciar ou Mostrar o Jogo:*\n\n```- #Jogodaforca ou #Iniciar_forca.```\n\n4. *Responder ao Jogo:*\n\n```- Letra: #Forcaletra.```\n```- Palavra: #Forcaletra palavracompleta.```\n\n5. *Resetar o Jogo:*\n\n```- #Resetforca.```\n\n*Dicas Importantes:*\n\n- Cada erro te aproxima da derrota (6 erros permitidos).\n\n- Acompanhe as letras já usadas.\n\n- Desafie seus amigos e divirta-se!"
+  }
+] 
